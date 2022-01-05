@@ -139,3 +139,4 @@ If you discover any security related issues, please email author instead of usin
 [link-messenger-composer]: docs/Composer.md
 [link-changelog]: https://github.com/RTippin/messenger/blob/1.x/CHANGELOG.md
 [link-license]: https://github.com/RTippin/messenger/blob/1.x/LICENSE.md
+
